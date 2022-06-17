@@ -1,4 +1,4 @@
-#install pygame in cmd
+#remember to install pygame in cmd
 
 >>pip --version
 >>pip install pygame
