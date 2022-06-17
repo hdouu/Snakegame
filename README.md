@@ -1,10 +1,10 @@
 remember to install pygame in cmd
 
-pip --version
+>pip --version
 
-pip install pygame
+>pip install pygame
 
-python
+>python
 
-import pygame
+>import pygame
 
