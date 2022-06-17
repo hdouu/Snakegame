@@ -1,8 +1,8 @@
 import pygame, sys, time, random
 
-#this code was inspired by youtuber Servet. Install pygame in other for it to work properly
+#this code was inspired by Servet. Install pygame in other for it to work properly
 
-speed = 4
+speed = 7
 
 #windows sizes
 
