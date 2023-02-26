@@ -1,6 +1,6 @@
 import pygame, sys, time, random
 
-#this code was inspired by Ser. Install pygame in other for it to work properly
+#Install pygame in other for it to work properly
 
 speed = 7
 
